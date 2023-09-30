@@ -1,6 +1,6 @@
 <h1>
     <a href="https://klaynmolina.com.br/">
-     <imgalign="center" width="40px" src="https://drive.google.com/file/d/1ja7v-AL8eVVN8XzGMaxg-JZzruL5x_0z/view?usp=sharing">
+     <img width="40px" align="center" src="https://drive.google.com/uc?export=view&id=1sL2IzjwlEgUm0BXgcTk9_ZKHS1VDUYdA">
     <span> KlaynMolina Profile</span>
 </h1>
 
