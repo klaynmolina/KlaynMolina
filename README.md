@@ -22,7 +22,8 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 6. [Projeto de Destaque](https://github.com/klaynmolina#projeto-de-destaque)
 7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#principais-desafios-de-projeto-dio)
 8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
-9. [Principais Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech) 
+9. [Principais Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech)
+10. [Desafios Code Wars]()
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vanessakrmolina/)
@@ -107,3 +108,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Site Mulheres na Tecnologia](https://github.com/klaynmolina/ElasNaTech_MulheresNaTecnologia)
   
 - [Cardápio Virtual](https://github.com/klaynmolina/ElasNaTech_HTML_CSS_Cardapio)
+
+
+### Desafios Code Wars
+- [Repositório](https://github.com/klaynmolina/DesafiosCodeWars)
