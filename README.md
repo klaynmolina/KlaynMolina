@@ -65,7 +65,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Trilha Digital Back-End 2023 - ADA](https://drive.google.com/file/d/1rgupplq2yCiQLNGSpJKPxermJFfhpZ9X/view?usp=sharing)
   
 
-### Principais Websites
+### Principais Websites Desenvolvidos
 - [Condomínio Três Reis 2](https://www.3reis2.com.br/)
 
 - [DVL CELL](https://www.dvlcell.com.br/)
