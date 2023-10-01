@@ -17,11 +17,11 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 1. [Conecte-se comigo](https://github.com/klaynmolina#conecte-se-comigo)
 2. [Habilidades](https://github.com/klaynmolina#habilidades)
 3. [GitHub Stats](https://github.com/klaynmolina#github-stats)
-4. [Principais Certificados](https://github.com/klaynmolina#meus-principais-certificados)
-5. [Principais Websites](https://github.com/klaynmolina#meus-principais-websites)
-6. [Principais Repositórios](https://github.com/klaynmolina/SimulacaoBancaria)
-7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#meus-principais-desafios-de-projeto-dio)
-8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#meus-desafios-de-c%C3%B3digo-santander-bootcamp-2023)
+4. [Principais Certificados](https://github.com/klaynmolina#principais-certificados)
+5. [Principais Websites](https://github.com/klaynmolina#principais-websites)
+6. [Projeto de Destaque](https://github.com/klaynmolina/SimulacaoBancaria)
+7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#principais-desafios-de-projeto-dio)
+8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
 9. [Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech) 
 
 ### Conecte-se comigo
@@ -83,9 +83,8 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Tabuada](https://www.klaynmolina.com.br/projetos/tabuada/)
 
 
-### Principais Repositórios
+### Projeto de Destaque
 - [Projeto Full Stack - Simulação de Transação Bancária](https://github.com/klaynmolina/SimulacaoBancaria)
-- [Projeto Final Curso Java ](https://github.com/klaynmolina/MaisPraTi_ProjetoFinal_CRUD)
 
 
 ### Principais Desafios de Projeto DIO
