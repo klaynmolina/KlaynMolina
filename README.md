@@ -2,7 +2,6 @@
     <a href="https://klaynmolina.com.br/">
      <img width="40px" align="center" src="https://drive.google.com/uc?export=view&id=1sL2IzjwlEgUm0BXgcTk9_ZKHS1VDUYdA">
      <img width="200px" align="center" src="https://drive.google.com/uc?export=view&id=1t7QrM4VtUR17i2Bs5ObB5Xfivbs8tGQP">
-     <img width="100px" align="center" src="https://drive.google.com/uc?export=view&id=1E4LYJpiAasxDmW_DBU7gyTK1Nodujvbt">
     </a>
 </h1>
 
