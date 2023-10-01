@@ -45,7 +45,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=klaynmolina&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Meus Principais Certificados
+### Principais Certificados
 - [Mentoria IT For Girls 2023](https://drive.google.com/file/d/1CNmzg-714LAijm2DOMQyhyDk30CzXIEm/view?usp=sharing)
   
 - [Santander Bootcamp 2023 - Backend Java](https://drive.google.com/file/d/1Wow5pTzUIgmnHGboud3VmRiRZrouGByc/view?usp=sharing)
@@ -65,7 +65,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Trilha Digital Back-End 2023 - ADA](https://drive.google.com/file/d/1rgupplq2yCiQLNGSpJKPxermJFfhpZ9X/view?usp=sharing)
   
 
-### Meus Principais Websites
+### Principais Websites
 - [Condomínio Três Reis 2](https://www.3reis2.com.br/)
 
 - [DVL CELL](https://www.dvlcell.com.br/)
@@ -83,12 +83,12 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Tabuada](https://www.klaynmolina.com.br/projetos/tabuada/)
 
 
-### Meus Principais Repositórios
+### Principais Repositórios
 - [Projeto Full Stack - Simulação de Transação Bancária](https://github.com/klaynmolina/SimulacaoBancaria)
 - [Projeto Final Curso Java ](https://github.com/klaynmolina/MaisPraTi_ProjetoFinal_CRUD)
 
 
-### Meus Principais Desafios de Projeto DIO
+### Principais Desafios de Projeto DIO
 - [Projeto Santander Bootcamp 2023: Trilha Java - API CRUD Gerenciamento de Biblioteca](https://github.com/klaynmolina/Biblioteca)
 
 - [Projeto Santander Bootcamp 2023: Trilha Java - Controle de Fluxo](https://github.com/klaynmolina/DesafioControleFluxo)
@@ -98,7 +98,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Desafio de Código Página Instagram](https://github.com/klaynmolina/desafio-codigo-instagram-bootcamp-santander)
 
 
-### Meus Desafios de Código Santander Bootcamp 2023
+### Desafios de Código Santander Bootcamp 2023
 [![Desafios de Código Santander Bootcamp 2023](https://github-readme-stats.vercel.app/api/pin/?username=klaynmolina&repo=DesafiosDeCodigoJavaSantanderBootcamp2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023)
 
 
