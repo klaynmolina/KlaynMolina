@@ -22,7 +22,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 6. [Projetos de Destaque](https://github.com/klaynmolina#projeto-de-destaque)
 7. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
 8. [Principais Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech)
-9. [Desafios de Processo Seletivo]()
+9. [Desafios de Processo Seletivo](https://github.com/klaynmolina#desafios-de-processo-seletivo)
 10. [Desafios Code Wars](https://github.com/klaynmolina#desafios-code-wars)
 
 ### Conecte-se comigo
