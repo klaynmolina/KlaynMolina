@@ -15,14 +15,14 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 
 # Índice 
 1. [Conecte-se comigo](https://github.com/klaynmolina#conecte-se-comigo)
-2. [Habilidades](https://github.com/klaynmolina#habilidades)
+2. [Principais Habilidades](https://github.com/klaynmolina#habilidades)
 3. [GitHub Stats](https://github.com/klaynmolina#github-stats)
 4. [Principais Certificados](https://github.com/klaynmolina#principais-certificados)
 5. [Principais Websites Desenvolvidos](https://github.com/klaynmolina#principais-websites)
 6. [Projeto de Destaque](https://github.com/klaynmolina#projeto-de-destaque)
 7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#principais-desafios-de-projeto-dio)
 8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
-9. [Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech) 
+9. [Principais Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech) 
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vanessakrmolina/)
@@ -30,7 +30,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vanessakrmolina/)
 
 
-### Habilidades
+### Principais Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=spring&logoColor=30A3DC)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
@@ -101,7 +101,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 [![Desafios de Código Santander Bootcamp 2023](https://github-readme-stats.vercel.app/api/pin/?username=klaynmolina&repo=DesafiosDeCodigoJavaSantanderBootcamp2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023)
 
 
-### Projetos [Elas_na_tech]
+### Principais Projetos [Elas_na_tech]
 - [Meu Primeiro Site - Inspira Ja](https://github.com/klaynmolina/meu-primeiro-site-inspira-ja-elas-na-tech)
   
 - [Site Mulheres na Tecnologia](https://github.com/klaynmolina/ElasNaTech_MulheresNaTecnologia)
