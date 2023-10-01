@@ -19,7 +19,7 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 3. [GitHub Stats](https://github.com/klaynmolina#github-stats)
 4. [Principais Certificados](https://github.com/klaynmolina#principais-certificados)
 5. [Principais Websites](https://github.com/klaynmolina#principais-websites)
-6. [Projeto de Destaque](https://github.com/klaynmolina/SimulacaoBancaria)
+6. [Projeto de Destaque](https://github.com/klaynmolina#projeto-de-destaque)
 7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#principais-desafios-de-projeto-dio)
 8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
 9. [Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech) 
