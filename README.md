@@ -19,10 +19,10 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 3. [GitHub Stats](https://github.com/klaynmolina#github-stats)
 4. [Principais Certificados](https://github.com/klaynmolina#principais-certificados)
 5. [Principais Websites Desenvolvidos](https://github.com/klaynmolina#principais-websites)
-6. [Projeto de Destaque](https://github.com/klaynmolina#projeto-de-destaque)
-7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#principais-desafios-de-projeto-dio)
-8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
-9. [Principais Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech)
+6. [Projetos de Destaque](https://github.com/klaynmolina#projeto-de-destaque)
+7. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#desafios-de-c%C3%B3digo-santander-bootcamp-2023)
+8. [Principais Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech)
+9. [Desafios de Processo Seletivo]()
 10. [Desafios Code Wars](https://github.com/klaynmolina#desafios-code-wars)
 
 ### Conecte-se comigo
@@ -84,18 +84,24 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 - [Tabuada](https://www.klaynmolina.com.br/projetos/tabuada/)
 
 
-### Projeto de Destaque
-- [Projeto Full Stack - Simulação de Transação Bancária](https://github.com/klaynmolina/SimulacaoBancaria)
+### Projetos de Destaque
+- [Projeto Full Stack: Simulação de Transação Bancária](https://github.com/klaynmolina/SimulacaoBancaria)
+  
+- [Projeto Santander Bootcamp 2023(Backend Java): API CRUD Gerenciamento de Biblioteca](https://github.com/klaynmolina/Biblioteca)
 
+- [Projeto Santander Bootcamp 2023(Backend Java): Controle de Fluxo](https://github.com/klaynmolina/DesafioControleFluxo)
 
-### Principais Desafios de Projeto DIO
-- [Projeto Santander Bootcamp 2023: Trilha Java - API CRUD Gerenciamento de Biblioteca](https://github.com/klaynmolina/Biblioteca)
+- [Projeto Santander Bootcamp 2023(Backend Java): Sintaxe Conta Bancária](https://github.com/klaynmolina/DesafioContaBanco)
 
-- [Projeto Santander Bootcamp 2023: Trilha Java - Controle de Fluxo](https://github.com/klaynmolina/DesafioControleFluxo)
+- [Projeto Santander Bootcamp 2023(Backend Java): Validação de Processo Seletivo](https://github.com/klaynmolina/DesafioProcessoSeletivo)
 
-- [Projeto Santander Bootcamp 2023: Trilha Java - Sintaxe Conta Bancária](https://github.com/klaynmolina/DesafioContaBanco)
+- [Projeto Santander Bootcamp 2022(Fullstack): Recriando a Página do Instagram](https://github.com/klaynmolina/desafio-codigo-instagram-bootcamp-santander)
+  
+- [Projeto Santander Bootcamp 2022(Fullstack): Back-end Conta Bancária](https://github.com/klaynmolina/BootcampDio_DesafioBanco)
 
-- [Desafio de Código Página Instagram](https://github.com/klaynmolina/desafio-codigo-instagram-bootcamp-santander)
+- [Projeto Final Curso Desenvolvedor Java: Back-end Gerenciamento de Cadastros](https://github.com/klaynmolina/MaisPraTi_ProjetoFinal_CRUD)
+
+- [Projeto Spring Boot: API CRUD Livraria](https://github.com/klaynmolina/Livraria)
 
 
 ### Desafios de Código Santander Bootcamp 2023
@@ -109,6 +115,8 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
   
 - [Cardápio Virtual](https://github.com/klaynmolina/ElasNaTech_HTML_CSS_Cardapio)
 
+### Desafios de Processo Seletivo
+- [Repositório](https://github.com/klaynmolina/DesafiosProcessoSeletivo)
 
 ### Desafios Code Wars
 - [Repositório](https://github.com/klaynmolina/DesafiosCodeWars)
