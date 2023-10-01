@@ -36,6 +36,26 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=klaynmolina&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
+### Certificados
+- [Mentoria IT For Girls 2023](https://drive.google.com/file/d/1CNmzg-714LAijm2DOMQyhyDk30CzXIEm/view?usp=sharing)
+  
+- [Santander Bootcamp 2023 - Backend Java](https://drive.google.com/file/d/1Wow5pTzUIgmnHGboud3VmRiRZrouGByc/view?usp=sharing)
+  
+- [Santander Bootcamp 2022- Fullstack Developer](https://drive.google.com/file/d/1pe5UpEX8l4nqoV6HXsMGW8zqE7KaqYj0/view?usp=sharing)
+  
+- [Programação Básica em Front-End - SENAI](https://drive.google.com/file/d/1ySxxmBcY-yJM0wZ0rLPdcrXIaBv8hSHY/view?usp=sharing)
+  
+- [Programação Básica em Back-End - SENAI](https://drive.google.com/file/d/1Ba4cm9AK1CctOsTGtO4NhpHlJWWaAHXg/view?usp=sharing)
+  
+- [Desenvolvedor Java - Alfamidia +PraTi](https://drive.google.com/file/d/17IfxctXsAQ-HUIggwXqHzZnz2as2XIQQ/view?usp=sharing)
+  
+- [Introdução ao framework Spring Boot](https://drive.google.com/file/d/1bK2Evn7XiDYVwPhYNw5S0QFRzmtwgRS3/view?usp=sharing)
+  
+- [Introdução ao Git e ao GitHub](https://drive.google.com/file/d/1HmJQM6v98v6YCHmbu84y7vZKx8g4YQF4/view?usp=sharing)
+  
+- [Trilha Digital Back-End 2023 - ADA](https://drive.google.com/file/d/1rgupplq2yCiQLNGSpJKPxermJFfhpZ9X/view?usp=sharing)
+  
+
 ### Meus Principais Websites
 - [Condomínio Três Reis 2](https://www.3reis2.com.br/)
 
