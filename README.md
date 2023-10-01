@@ -13,6 +13,16 @@ Atualmente, estou focada em minha graduação em Engenharia de Software e sou um
 Convido você a conhecer mais sobre meu trabalho e projetos em meu [Portfólio](https://klaynmolina.com.br/). 
 Estou confiante de que minha paixão, determinação e busca contínua por conhecimento me levarão a alcançar o sucesso nessa nova carreira na área de TI.
 
+# Índice 
+1. [Conecte-se comigo](https://github.com/klaynmolina#conecte-se-comigo)
+2. [Habilidades](https://github.com/klaynmolina#habilidades)
+3. [GitHub Stats](https://github.com/klaynmolina#github-stats)
+4. [Principais Certificados](https://github.com/klaynmolina#meus-principais-certificados)
+5. [Principais Websites](https://github.com/klaynmolina#meus-principais-websites)
+6. [Principais Repositórios](https://github.com/klaynmolina/SimulacaoBancaria)
+7. [Principais Desafios de Projeto DIO](https://github.com/klaynmolina#meus-principais-desafios-de-projeto-dio)
+8. [Desafios de Código Santander Bootcamp 2023](https://github.com/klaynmolina#meus-desafios-de-c%C3%B3digo-santander-bootcamp-2023)
+9. [Projetos [Elas_na_tech]](https://github.com/klaynmolina#projetos-elas_na_tech) 
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vanessakrmolina/)
