@@ -26,10 +26,10 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 10. [Desafios Code Wars](https://github.com/klaynmolina#desafios-code-wars)
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vanessakrmolina/)
+[![Perfil DIO](https://img.shields.io/badge/Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vanessakrmolina/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vanessakrmolina@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vanessakrmolina/)
-
+[![Portfólio](https://img.shields.io/badge/Portfolio-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)](https://klaynmolina.com.br/)
 
 ### Principais Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=30A3DC)
@@ -49,15 +49,15 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 ### Principais Certificados
 - [Mentoria IT For Girls 2023](https://drive.google.com/file/d/1CNmzg-714LAijm2DOMQyhyDk30CzXIEm/view?usp=sharing)
   
-- [Santander Bootcamp 2023 - Backend Java](https://drive.google.com/file/d/1Wow5pTzUIgmnHGboud3VmRiRZrouGByc/view?usp=sharing)
+- [Backend Java - Santander Bootcamp 2023](https://drive.google.com/file/d/1Wow5pTzUIgmnHGboud3VmRiRZrouGByc/view?usp=sharing)
   
-- [Santander Bootcamp 2022- Fullstack Developer](https://drive.google.com/file/d/1pe5UpEX8l4nqoV6HXsMGW8zqE7KaqYj0/view?usp=sharing)
+- [Desenvolvedor Java - Alfamidia +PraTi](https://drive.google.com/file/d/17IfxctXsAQ-HUIggwXqHzZnz2as2XIQQ/view?usp=sharing)
+  
+- [Fullstack Developer - Santander Bootcamp 2022](https://drive.google.com/file/d/1pe5UpEX8l4nqoV6HXsMGW8zqE7KaqYj0/view?usp=sharing)
   
 - [Programação Básica em Front-End - SENAI](https://drive.google.com/file/d/1ySxxmBcY-yJM0wZ0rLPdcrXIaBv8hSHY/view?usp=sharing)
   
 - [Programação Básica em Back-End - SENAI](https://drive.google.com/file/d/1Ba4cm9AK1CctOsTGtO4NhpHlJWWaAHXg/view?usp=sharing)
-  
-- [Desenvolvedor Java - Alfamidia +PraTi](https://drive.google.com/file/d/17IfxctXsAQ-HUIggwXqHzZnz2as2XIQQ/view?usp=sharing)
   
 - [Introdução ao framework Spring Boot](https://drive.google.com/file/d/1bK2Evn7XiDYVwPhYNw5S0QFRzmtwgRS3/view?usp=sharing)
   
@@ -71,15 +71,15 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 
 - [DVL CELL](https://www.dvlcell.com.br/)
 
-- [Cálculo de Taxa de Cartão de Crédito](https://klaynmolina.com.br/projetos/calculo-taxa-cartao/)
+- [Klayn Fotografia](https://www.klaynmolina.com.br/projetos/klayn-fotografia/)
+
+- [Calculadora Simples](https://klaynmolina.com.br/projetos/calculadora-simples/)
+  
+- [Testador de Teclado](https://klaynmolina.com.br/projetos/testador-teclado/completo.html)
 
 - [Cálculo IMC](https://klaynmolina.com.br/projetos/calculo-imc/)
 
-- [Cálculo Regra de Três](https://klaynmolina.com.br/projetos/regra-tres/)
-
-- [Calculadora Simples](https://klaynmolina.com.br/projetos/calculadora-simples/)
-
-- [Testador de Teclado](https://klaynmolina.com.br/projetos/testador-teclado/completo.html)
+- [Regra de Três](https://klaynmolina.com.br/projetos/regra-tres/)
 
 - [Tabuada](https://www.klaynmolina.com.br/projetos/tabuada/)
 
@@ -87,23 +87,22 @@ Estou confiante de que minha paixão, determinação e busca contínua por conhe
 ### Projetos de Destaque
 - [Projeto Full Stack: Simulação de Transação Bancária](https://github.com/klaynmolina/SimulacaoBancaria)
   
-- [Projeto Santander Bootcamp 2023(Backend Java): API CRUD Gerenciamento de Biblioteca](https://github.com/klaynmolina/Biblioteca)
-
-- [Projeto Santander Bootcamp 2023(Backend Java): Controle de Fluxo](https://github.com/klaynmolina/DesafioControleFluxo)
-
-- [Projeto Santander Bootcamp 2023(Backend Java): Sintaxe Conta Bancária](https://github.com/klaynmolina/DesafioContaBanco)
-
-- [Projeto Santander Bootcamp 2023(Backend Java): Validação de Processo Seletivo](https://github.com/klaynmolina/DesafioProcessoSeletivo)
-
-- [Projeto Santander Bootcamp 2022(Fullstack): Recriando a Página do Instagram](https://github.com/klaynmolina/desafio-codigo-instagram-bootcamp-santander)
-  
-- [Projeto Santander Bootcamp 2022(Fullstack): Back-end Conta Bancária](https://github.com/klaynmolina/BootcampDio_DesafioBanco)
-
 - [Projeto Final Curso Desenvolvedor Java: Back-end Gerenciamento de Cadastros](https://github.com/klaynmolina/MaisPraTi_ProjetoFinal_CRUD)
-
+  
 - [Projeto Spring Boot: API CRUD Livraria](https://github.com/klaynmolina/Livraria)
+  
+- [Projeto Backend Java: Santander Bootcamp 2023 (API CRUD Gerenciamento de Biblioteca)](https://github.com/klaynmolina/Biblioteca)
 
+- [Projeto Backend Java: Santander Bootcamp 2023 (Controle de Fluxo)](https://github.com/klaynmolina/DesafioControleFluxo)
 
+- [Projeto Backend Java: Santander Bootcamp 2023 (Sintaxe Conta Bancária)](https://github.com/klaynmolina/DesafioContaBanco)
+
+- [Projeto Backend Java: Santander Bootcamp 2023 (Validação de Processo Seletivo)](https://github.com/klaynmolina/DesafioProcessoSeletivo)
+
+- [Projeto Back-End Java: Santander Bootcamp 2022 (Back-end Conta Bancária)](https://github.com/klaynmolina/BootcampDio_DesafioBanco)
+
+- [Projeto Front-End: Santander Bootcamp 2022 (Recriando a Página do Instagram)](https://github.com/klaynmolina/desafio-codigo-instagram-bootcamp-santander)
+  
 ### Desafios de Código Santander Bootcamp 2023
 [![Desafios de Código Santander Bootcamp 2023](https://github-readme-stats.vercel.app/api/pin/?username=klaynmolina&repo=DesafiosDeCodigoJavaSantanderBootcamp2023&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/klaynmolina/DesafiosDeCodigoJavaSantanderBootcamp2023)
 
